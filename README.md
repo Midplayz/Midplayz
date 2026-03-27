@@ -1,10 +1,6 @@
 # SRIVISHNU
 
 <p align="center">
-  <img src="YOUR_BANNER_LINK_HERE" alt="banner" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Game+Developer;Unity+Specialist;Building+Fun+Experiences&center=true&width=500&height=45">
 </p>
 
@@ -30,11 +26,11 @@
 <!-- Replace these later if you want -->
 
 <p align="center">
-  <img src="https://via.placeholder.com/100x30?text=Unity"/>
-  <img src="https://via.placeholder.com/100x30?text=C%23"/>
-  <img src="https://via.placeholder.com/100x30?text=Godot"/>
-  <img src="https://via.placeholder.com/100x30?text=React"/>
-  <img src="https://via.placeholder.com/100x30?text=JavaScript"/>
+  <img src="https://img.shields.io/badge/Unity-0F1115?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-0F1115?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Godot-0F1115?style=for-the-badge&logo=godot-engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-0F1115?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-0F1115?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
 ---
