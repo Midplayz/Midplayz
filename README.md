@@ -45,6 +45,10 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Midplayz&layout=compact&bg_color=0F1115&title_color=FF7A00&text_color=EAEAEA&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Midplayz&theme=dark&background=0F1115&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&hide_border=true"/>
+</p>
+
 ---
 
 ## 🌐 Connect With Me
@@ -52,7 +56,7 @@
 <p align="center">
   🌍 <a href="https://www.midplayz.com">Portfolio</a> •
   🎮 <a href="https://midplayz.itch.io">Itch.io</a> •
-  💼 <a href="https://www.linkedin.com/in/srivishnu-srinivasan-328912191">LinkedIn</a>
+  💼 <a href="https://www.linkedin.com/in/srivishnu-srinivasan/">LinkedIn</a>
 </p>
 
 ---
