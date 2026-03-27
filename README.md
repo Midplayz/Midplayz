@@ -39,6 +39,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Midplayz&show_icons=true&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midplayz&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
 ---
