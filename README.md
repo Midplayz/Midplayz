@@ -64,3 +64,7 @@
 <p align="center">
   <i>⚡ Building games that people enjoy playing ⚡</i>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Midplayz&color=FF7A00&style=flat"/>
+</p>
