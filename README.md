@@ -7,23 +7,23 @@
 <h2 align="center">Turning <span style="color:#FF7A00;">Ideas</span> Into Reality</h2>
 
 <p align="center">
-  🎮 Game Developer • Creative Innovator • Problem Solver
+  Game Developer • Creative Innovator • Problem Solver
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <p align="center">
-  🎮 2+ years of experience in Unity (2D & 3D) <br/>
-  ⚡ Focused on gameplay systems, polish, and performance <br/>
-  🧠 Strong in prototyping → iteration → refinement <br/>
-  🛠 Passionate about creating engaging player experiences
+  2+ years of experience in Unity (2D & 3D) <br/>
+  Focused on gameplay systems, polish, and performance <br/>
+  Strong in prototyping → iteration → refinement <br/>
+  Passionate about creating engaging player experiences
 </p>
 
 ---
 
-## 🛠 Tech Arsenal
+## Tech Arsenal
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-FF7A00?style=for-the-badge&logo=unity&logoColor=white"/>
@@ -35,7 +35,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Midplayz&show_icons=true&bg_color=0F1115&title_color=FF7A00&icon_color=FF7A00&text_color=EAEAEA&hide_border=true"/>
@@ -51,7 +51,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   🌍 <a href="https://www.midplayz.com">Portfolio</a> •
